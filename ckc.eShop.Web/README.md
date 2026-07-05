@@ -1,18 +1,17 @@
 # 🛒  CKC Commerce Hub
 
+## Banner
+
+## Introduction
+
 CKC Commerce Hub is a cloud-native enterprise commerce platform that I am building to explore modern software architecture patterns. 
 
-It includes (or going to) order management, inventory, payments, notifications, identity, analytics, and AI-powered capabilities. 
+## Vision
 
-The goal is to implement production-grade architectural patterns such as DDD, CQRS, Event-Driven Architecture, Outbox Pattern, Redis caching, Kubernetes deployment, and CI/CD.
+CKC Commerce Hub is a cloud-native enterprise commerce platform built using modern .NET technologies and enterprise architecture principles. The project serves both as a production-quality reference implementation and an architectural playground where modern software engineering practices are implemented, evaluated, and documented.
 
-## 🚀 Tech Stack
+The objective is not simply to build another e-commerce application, but to demonstrate how an enterprise system can evolve from a monolithic architecture into a modular, scalable, observable, and cloud-native platform using Domain-Driven Design (DDD), CQRS, Event-Driven Architecture, Redis caching, Kubernetes, CI/CD, and modern DevOps practices.
 
-- **Backend:** ASP.NET Core 9 (Upgraded to 11.0)
-- **ORM:** Entity Framework Core
-- **Database:** SQL Server
-- **Architecture:** Clean Architecture with Repository Pattern
-- **API:** RESTful APIs with proper layering and dependency injection
 
 ## 📺 Video Series
 
@@ -31,3 +30,36 @@ This tutorial series is published on YouTube and walks you step-by-step through 
 🔔 **Subscribe to the youtube channel** to stay updated with new parts: [Complete ASP.NET Core eCommerce](https://www.youtube.com/@codewithwahabhussain?sub_confirmation=1)
 
 🔔 **Subscribe to the playlist** to stay updated with new parts: [Complete ASP.NET Core eCommerce Playlist](https://lnkd.in/dnBgZeQB)
+
+
+
+
+
+Key Features
+
+Architecture
+
+Technology Stack
+- **Backend:** ASP.NET Core 9 (Upgraded to 11.0)
+- **ORM:** Entity Framework Core
+- **Database:** SQL Server
+- **Architecture:** Clean Architecture with Repository Pattern
+- **API:** RESTful APIs with proper layering and dependency injection
+
+Current Architecture
+
+Future Evolution
+
+Project Structure
+
+Getting Started
+
+Roadmap
+
+Architecture Decision Records
+
+Documentation
+
+Contributing
+
+License

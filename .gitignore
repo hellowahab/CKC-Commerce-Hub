@@ -30,3 +30,8 @@ Ckc.EShop.ApplicationCore/obj/
 /Ckc.EShop.ApplicationCore.Tests/obj/Ckc.EShop.ApplicationCore.Tests.csproj.nuget.g.targets
 /Ckc.EShop.ApplicationCore.Tests/obj/project.assets.json
 /Ckc.EShop.ApplicationCore.Tests/obj/project.nuget.cache
+pocs/rabbitmq/RabbitMQ-Producer-Consumer/RabbitMQ.Consumer/bin/
+pocs/rabbitmq/RabbitMQ-Producer-Consumer/RabbitMQ.Consumer/obj/
+pocs/rabbitmq/RabbitMQ-Producer-Consumer/RabbitMQ.Producer/bin/
+pocs/rabbitmq/RabbitMQ-Producer-Consumer/RabbitMQ.Producer/obj/
+pocs/rabbitmq/RabbitMQ-Producer-Consumer/RabbitMQ.slnLaunch.user
